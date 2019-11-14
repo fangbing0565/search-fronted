@@ -1,0 +1,8 @@
+# public/
+dist/
+node_modules/
+build/
+*.md
+public/clientConfig.js
+public/config.js
+public/library/fabricClass/

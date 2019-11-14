@@ -1,0 +1,15 @@
+node_modules
+.idea
+dist/font/*
+build/fonts/*
+build/fonts/.font-spider/*
+*.DS_Store
+.git
+fontTest/fonts/*
+server/fonts/
+__MACOSX/
+readed.txt
+server/screenshot/out/*
+server/puppeteer/out/*
+.logs/
+dump.rdb
